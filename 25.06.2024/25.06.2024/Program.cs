@@ -62,7 +62,7 @@ namespace _25._06._2024
             Console.Write("Input your surname: ");
             string surName = Console.ReadLine();
             Console.Write("Input your year of birth: ");
-            string year = Console.ReadLine();
+            int year = int.Parse( Console.ReadLine());
             Console.WriteLine(firstName +" "+surName+" "+year);
 
 
