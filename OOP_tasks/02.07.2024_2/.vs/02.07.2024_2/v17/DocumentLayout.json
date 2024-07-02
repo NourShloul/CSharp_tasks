@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\CSharp_tasks\\OOP_tasks\\02.07.2024_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36075C6D-99F6-4546-8847-4E8C40C7E559}|02.07.2024_2\\02.07.2024_2.csproj|c:\\users\\orange\\desktop\\csharp_tasks\\oop_tasks\\02.07.2024_2\\02.07.2024_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36075C6D-99F6-4546-8847-4E8C40C7E559}|02.07.2024_2\\02.07.2024_2.csproj|solutionrelative:02.07.2024_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp_tasks\\OOP_tasks\\02.07.2024_2\\02.07.2024_2\\Program.cs",
+              "RelativeDocumentMoniker": "02.07.2024_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp_tasks\\OOP_tasks\\02.07.2024_2\\02.07.2024_2\\Program.cs",
+              "RelativeToolTip": "02.07.2024_2\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:28:30.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

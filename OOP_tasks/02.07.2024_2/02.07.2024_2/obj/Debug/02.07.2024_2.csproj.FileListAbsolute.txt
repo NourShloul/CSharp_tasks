@@ -1,0 +1,14 @@
+C:\Users\Orange\source\repos\02.07.2024_2\02.07.2024_2\bin\Debug\02.07.2024_2.exe.config
+C:\Users\Orange\source\repos\02.07.2024_2\02.07.2024_2\bin\Debug\02.07.2024_2.exe
+C:\Users\Orange\source\repos\02.07.2024_2\02.07.2024_2\bin\Debug\02.07.2024_2.pdb
+C:\Users\Orange\source\repos\02.07.2024_2\02.07.2024_2\obj\Debug\02.07.2024_2.csproj.AssemblyReference.cache
+C:\Users\Orange\source\repos\02.07.2024_2\02.07.2024_2\obj\Debug\02.07.2024_2.csproj.CoreCompileInputs.cache
+C:\Users\Orange\source\repos\02.07.2024_2\02.07.2024_2\obj\Debug\02.07.2024_2.exe
+C:\Users\Orange\source\repos\02.07.2024_2\02.07.2024_2\obj\Debug\02.07.2024_2.pdb
+C:\Users\Orange\Desktop\CSharp_tasks\OOP_tasks\02.07.2024_2\02.07.2024_2\bin\Debug\02.07.2024_2.exe.config
+C:\Users\Orange\Desktop\CSharp_tasks\OOP_tasks\02.07.2024_2\02.07.2024_2\bin\Debug\02.07.2024_2.exe
+C:\Users\Orange\Desktop\CSharp_tasks\OOP_tasks\02.07.2024_2\02.07.2024_2\bin\Debug\02.07.2024_2.pdb
+C:\Users\Orange\Desktop\CSharp_tasks\OOP_tasks\02.07.2024_2\02.07.2024_2\obj\Debug\02.07.2024_2.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\CSharp_tasks\OOP_tasks\02.07.2024_2\02.07.2024_2\obj\Debug\02.07.2024_2.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\CSharp_tasks\OOP_tasks\02.07.2024_2\02.07.2024_2\obj\Debug\02.07.2024_2.exe
+C:\Users\Orange\Desktop\CSharp_tasks\OOP_tasks\02.07.2024_2\02.07.2024_2\obj\Debug\02.07.2024_2.pdb
